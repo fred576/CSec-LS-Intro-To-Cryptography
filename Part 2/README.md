@@ -1,4 +1,4 @@
-#RSA-Digital-Signatures
+# RSA-Digital-Signatures
 
 Run the following two commands
 1)python sign.py <filename>
